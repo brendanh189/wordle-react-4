@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wordle-react/static/css/main.40dd918d.css",
-    "main.js": "/wordle-react/static/js/main.e50931e5.js",
-    "static/js/787.b3f9d252.chunk.js": "/wordle-react/static/js/787.b3f9d252.chunk.js",
-    "index.html": "/wordle-react/index.html",
-    "main.40dd918d.css.map": "/wordle-react/static/css/main.40dd918d.css.map",
-    "main.e50931e5.js.map": "/wordle-react/static/js/main.e50931e5.js.map",
-    "787.b3f9d252.chunk.js.map": "/wordle-react/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "/wordle-react-4/static/css/main.40dd918d.css",
+    "main.js": "/wordle-react-4/static/js/main.d8c7ec8b.js",
+    "static/js/787.b3f9d252.chunk.js": "/wordle-react-4/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/wordle-react-4/index.html",
+    "main.40dd918d.css.map": "/wordle-react-4/static/css/main.40dd918d.css.map",
+    "main.d8c7ec8b.js.map": "/wordle-react-4/static/js/main.d8c7ec8b.js.map",
+    "787.b3f9d252.chunk.js.map": "/wordle-react-4/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40dd918d.css",
-    "static/js/main.e50931e5.js"
+    "static/js/main.d8c7ec8b.js"
   ]
 }
